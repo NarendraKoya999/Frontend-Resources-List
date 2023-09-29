@@ -100,4 +100,12 @@ Welcome to the world of front-end development! Whether you're just starting your
 - [The Coding Train - Creative Coding](https://www.youtube.com/c/TheCodingTrain) 📺
 - [DesignCourse - Design and UI/UX](https://www.youtube.com/c/DesignCourse) 📺
 
+## 💻 Code Editors Resources
+- [Visual Studio Code](https://code.visualstudio.com/) 📝
+- [Sublime Text](https://www.sublimetext.com/) 📝
+- [Atom](https://atom.io/) 📝
+- [WebStorm](https://www.jetbrains.com/webstorm/) 📝
+- [Brackets](http://brackets.io/) 📝
+- [Notepad++](https://notepad-plus-plus.org/downloads/) 📝
+
 Happy learning, and may your journey in front-end development be filled with creativity and innovation!
