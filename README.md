@@ -1,4 +1,4 @@
-# 🚀 Frontend Development Learning Resources
+# 🚀 Frontend Development Learning Resources👁‍🗨
 
 Welcome to the world of front-end development! Whether you're just starting your journey or looking to expand your skills, this curated list of resources will help you master HTML, CSS, JavaScript, and various frontend frameworks and tools. Explore these platforms, courses, tutorials, books, YouTube channels, and more to enhance your front-end development skills.
 
