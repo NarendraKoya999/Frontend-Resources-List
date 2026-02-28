@@ -28,9 +28,8 @@ Welcome to the world of front-end development! Whether you're just starting your
 - [Zero to Mastery React.js Course](https://zerotomastery.io/courses/) 🎓
 - [BFE.dev Challenges](https://bigfrontend.dev/) 💪
 - [Frontend Mentor Real-world Projects](https://www.frontendmentor.io/challenges?difficulties=1,2&types=free,free-plus) 🌐
-- [React Training Workshops](https://reacttraining.com/workshops/) 🎓
-- [React Podcast](https://reactpodcast.com/) 🎙️
 - [Reactiflux Discord Community](https://www.reactiflux.com/) 💬
+- [React Podcast](https://reactpodcast.com/) 🎙️
 
 ## 🎨 CSS and Design
 - [CSS Tricks Articles and Tutorials](https://css-tricks.com/archives/) 📚
@@ -47,7 +46,7 @@ Welcome to the world of front-end development! Whether you're just starting your
 - [Git Official Docs](https://git-scm.com/) 📚
 - [GitHub Collaborative Development](https://github.com/) 💼
 - [Bitbucket Version Control](https://bitbucket.org/) 💼
-- [Git and GitHub Learning Lab](https://lab.github.com/) 🎓
+- [GitHub Skills - Interactive Learning](https://skills.github.com/) 🎓 *(replaces the deprecated GitHub Learning Lab)*
 - [GitKraken Git Client](https://www.gitkraken.com/) 📟
 
 ## 🌐 Additional Resources
@@ -69,16 +68,18 @@ Welcome to the world of front-end development! Whether you're just starting your
 
 ## 📦 Frameworks and Libraries
 - [Node.js Official Docs](https://nodejs.org/) 📚
-- [Material UI React UI Framework](https://material-ui.com/) 📚
+- [MUI (Material UI) React UI Framework](https://mui.com/) 📚 *(updated URL)*
 - [SASS CSS Preprocessor](https://sass-lang.com/) 📚
 - [LESS CSS Preprocessor](http://lesscss.org/) 📚
 - [Bootstrap CSS Framework](https://getbootstrap.com/) 📚
 - [Redux Official Docs](https://redux.js.org/) 📚
 - [Webpack Module Bundler](https://webpack.js.org/) 📚
-- [Gatsby.js - Blazing-Fast Static Site Generator](https://www.gatsbyjs.com/) 📚
+- [Next.js - React Framework for Production](https://nextjs.org/) 📚
+- [Astro - Fast Static Site Generator](https://astro.build/) 📚
+- [Gatsby.js - Static Site Generator](https://www.gatsbyjs.com/) 📚
 - [Emotion - CSS in JavaScript](https://emotion.sh/docs/introduction) 📚
 - [Vue.js Official Docs](https://v3.vuejs.org/) 📚
-- [Angular Official Docs](https://angular.io/) 📚
+- [Angular Official Docs](https://angular.dev/) 📚 *(updated URL)*
 - [Tailwind CSS Utility-First Framework](https://tailwindcss.com/) 📚
 
 ## 🔧 Tools and References
@@ -131,14 +132,18 @@ Welcome to the world of front-end development! Whether you're just starting your
 - [DesignCourse - Design and UI/UX](https://www.youtube.com/c/DesignCourse) 📺
 - [The Coding Garden with CJ - Live Coding](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw) 📺
 
-## 💻 Code Editors Resources
+## 💻 Code Editors
 - [Visual Studio Code](https://code.visualstudio.com/) 📝
 - [Sublime Text](https://www.sublimetext.com/) 📝
-- [Atom](https://atom.io/) 📝
+- [Zed - High-performance Modern Editor](https://zed.dev/) 📝 *(new addition)*
+- [Phoenix Editor - Modern Brackets Successor](https://phcode.io/) 📝 *(new addition)*
 - [WebStorm](https://www.jetbrains.com/webstorm/) 📝
-- [Brackets](http://brackets.io/) 📝
 - [Notepad++](https://notepad-plus-plus.org/downloads/) 📝
 - [Visual Studio Code Extensions (VSCode Marketplace)](https://marketplace.visualstudio.com/VSCode) 📝
 - [VSCode Themes (VSCodeThemes)](https://vscodethemes.com/) 🌈
+
+---
+
+> **Last reviewed:** February 2026 — Links verified and updated. Removed discontinued tools (Atom, Brackets, GitHub Learning Lab). Updated Angular docs URL, Material UI URL, and added Next.js, Astro, Zed, and Phoenix Editor.
 
 Happy learning, and may your journey in front-end development be filled with creativity and innovation!
