@@ -1,8 +1,43 @@
 # 🚀 Frontend Development Learning Resources 👁‍🗨
 
-Welcome to the world of front-end development! Whether you're just starting your journey or looking to expand your skills, this curated list of resources will help you master HTML, CSS, JavaScript, and various frontend frameworks and tools. Explore these platforms, courses, tutorials, books, YouTube channels, and more to enhance your front-end development skills.
+Welcome to the world of front-end development! Whether you're just starting your journey or looking to expand your skills, this curated list of resources will help you master HTML, CSS, JavaScript, various frontend frameworks, tools, and — now essential in 2026 — **AI integration and prompt engineering**. Explore these platforms, courses, tutorials, books, YouTube channels, and more to enhance your front-end development skills.
+
+---
+
+## 🤖 AI & Prompt Engineering (New in 2026)
+
+AI is now a core skill for every frontend developer. These resources cover building with LLMs, prompt engineering, agents, RAG pipelines, and integrating AI into web apps.
+
+- [Anthropic Prompt Engineering Guide](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) 📚 — Official Claude prompt engineering docs; essential for developers integrating AI
+- [Anthropic Developer Docs](https://docs.anthropic.com/) 📚 — Full Claude API reference, model guides, and safety documentation
+- [Anthropic Courses](https://anthropic.skilljar.com/) 📚 — Anthropic’s official free learning platform featuring self-paced courses on Claude AI, prompt engineering, AI fluency, and advanced developer topics like API integration, agent workflows, and Model Context Protocol (MCP). Designed for developers, students, and professionals, with hands-on training and certification upon completion.
+- [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) 🎓 — Free, practical AI courses by Andrew Ng covering LLMs, RAG, agents, and prompt engineering
+- [OpenAI Developer Platform Docs](https://platform.openai.com/docs) 📚 — Learn GPT-4o, Assistants API, function calling, embeddings, and vision capabilities
+- [Google AI for Developers](https://ai.google.dev/) 🎓 — Gemini API, Google AI Studio, and free hands-on codelabs for building AI apps
+- [Hugging Face Learn Hub](https://huggingface.co/learn) 🎓 — Free NLP, computer vision, and ML courses including hands-on transformers notebooks
+- [LangChain Academy](https://academy.langchain.com/) 🎓 — Official courses for building LLM-powered apps, agents, and RAG pipelines with LangChain
+- [Fast.ai Practical Deep Learning](https://course.fast.ai/) 🎓 — Top-down, practical deep learning course; highly rated by engineers worldwide
+- [Microsoft AI Skills & Learning Paths](https://learn.microsoft.com/en-us/ai/) 🎓 — Free Azure AI and Copilot development learning paths with certifications
+- [AWS AI/ML Learning Path](https://explore.skillbuilder.aws/learn) 🎓 — Amazon's free courses on building AI apps with Bedrock, SageMaker, and AWS services
+- [IBM SkillsBuild AI Courses](https://skillsbuild.org/) 🎓 — Free AI fundamentals and applied AI courses from IBM
+- [Elements of AI](https://www.elementsofai.com/) 🎓 — Beginner-friendly introduction to AI concepts; widely used by universities
+
+---
+
+## 🛠️ AI Tools for Frontend Developers (New in 2026)
+
+- [Vercel AI SDK](https://sdk.vercel.ai/docs) 📚 — Stream AI responses in React and Next.js apps; practical, frontend-first approach
+- [v0 by Vercel](https://v0.dev/) 💻 — Generate React and Tailwind UI components from text descriptions; production-ready output
+- [Bolt.new by StackBlitz](https://bolt.new/) 💻 — AI full-stack app builder; build, run, and deploy from a single prompt in the browser
+- [Cursor AI Editor](https://cursor.sh/) 📝 — AI-first code editor built on VS Code with deep AI pair programming built in
+- [GitHub Copilot Docs](https://docs.github.com/en/copilot) 📚 — Learn to use AI pair programming in VS Code, JetBrains, and GitHub web UI
+- [Windsurf by Codeium](https://codeium.com/windsurf) 📝 — Agentic AI IDE that reasons across your entire codebase
+- [Claude.ai for Developers](https://claude.ai/) 💻 — Use Claude directly for code generation, debugging, and architecture advice
+
+---
 
 ## 📚 Online Courses and Certificates
+
 - [Coursera Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer) 🎓
 - [Scrimba Interactive Courses](https://scrimba.com/) 📺
 - [Scaler Academy Topics](https://www.scaler.com/topics/) 🎓
@@ -13,7 +48,10 @@ Welcome to the world of front-end development! Whether you're just starting your
 - [Coursera Web Design for Everybody Specialization](https://www.coursera.org/specializations/web-design) 🎓
 - [edX Front-End Web Development MicroBachelors Program](https://www.edx.org/micromasters/front-end-web-developer) 🎓
 
+---
+
 ## 📖 JavaScript Learning
+
 - [JavaScript.info Tutorial](https://javascript.info/) 📚
 - [Codewars Coding Challenges](https://www.codewars.com/join?language=javascript) 🌐
 - [JS Hero JavaScript Exercises](https://www.jshero.net/en/success.html) 🎮
@@ -23,7 +61,10 @@ Welcome to the world of front-end development! Whether you're just starting your
 - [MDN Web Docs JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 📚
 - [Egghead.io JavaScript Courses](https://egghead.io/courses) 📺
 
+---
+
 ## ⚛️ React.js Resources
+
 - [React.dev Official Docs](https://react.dev/learn) 📚
 - [Zero to Mastery React.js Course](https://zerotomastery.io/courses/) 🎓
 - [BFE.dev Challenges](https://bigfrontend.dev/) 💪
@@ -31,7 +72,10 @@ Welcome to the world of front-end development! Whether you're just starting your
 - [Reactiflux Discord Community](https://www.reactiflux.com/) 💬
 - [React Podcast](https://reactpodcast.com/) 🎙️
 
+---
+
 ## 🎨 CSS and Design
+
 - [CSS Tricks Articles and Tutorials](https://css-tricks.com/archives/) 📚
 - [DevDocs Documentation](https://devdocs.io/) 📚
 - [CSSBattle CSS Challenges](https://cssbattle.dev/) 💻
@@ -42,14 +86,20 @@ Welcome to the world of front-end development! Whether you're just starting your
 - [Dribbble Design Inspiration](https://dribbble.com/) 🎨
 - [UI/UX Design Daily Inspiration](https://www.uplabs.com/) 🎨
 
+---
+
 ## 🔄 Version Control and Collaboration
+
 - [Git Official Docs](https://git-scm.com/) 📚
 - [GitHub Collaborative Development](https://github.com/) 💼
 - [Bitbucket Version Control](https://bitbucket.org/) 💼
 - [GitHub Skills - Interactive Learning](https://skills.github.com/) 🎓 *(replaces the deprecated GitHub Learning Lab)*
 - [GitKraken Git Client](https://www.gitkraken.com/) 📟
 
+---
+
 ## 🌐 Additional Resources
+
 - [Devchallenges Real-life Projects](https://devchallenges.io/) 💼
 - [Codewell Web Development Projects](https://www.codewell.cc/) 💻
 - [CodingGame Coding Challenges](https://www.codingame.com/start) 🎮
@@ -58,7 +108,10 @@ Welcome to the world of front-end development! Whether you're just starting your
 - [Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2019/) 📚
 - [Web Design Weekly Newsletter](https://web-design-weekly.com/) 📧
 
+---
+
 ## 🚀 Community and Practice
+
 - [Edabit Coding Challenges](https://edabit.com/challenges/javascript) 🎮
 - [JS Challenger Practice Platform](https://www.jschallenger.com/) 🎮
 - [Codementor.io Projects](https://www.codementor.io/projects/javascript) 💼
@@ -66,7 +119,10 @@ Welcome to the world of front-end development! Whether you're just starting your
 - [CodeWars JavaScript Kata](https://www.codewars.com/) 🥋
 - [LeetCode Front-End Challenges](https://leetcode.com/problemset/all/?topic=front-end) 🏆
 
+---
+
 ## 📦 Frameworks and Libraries
+
 - [Node.js Official Docs](https://nodejs.org/) 📚
 - [MUI (Material UI) React UI Framework](https://mui.com/) 📚 *(updated URL)*
 - [SASS CSS Preprocessor](https://sass-lang.com/) 📚
@@ -82,7 +138,10 @@ Welcome to the world of front-end development! Whether you're just starting your
 - [Angular Official Docs](https://angular.dev/) 📚 *(updated URL)*
 - [Tailwind CSS Utility-First Framework](https://tailwindcss.com/) 📚
 
+---
+
 ## 🔧 Tools and References
+
 - [OverAPI.com Cheat Sheets](https://overapi.com/) 📚
 - [web.dev Web Development Tools](https://web.dev/) 📚
 - [Showcase Beautiful Websites](https://www.showwcase.com/) 🌟
@@ -95,7 +154,10 @@ Welcome to the world of front-end development! Whether you're just starting your
 - [Lighthouse - Website Auditing Tool](https://developers.google.com/web/tools/lighthouse) 🕵️
 - [JSONLint - JSON Validator](https://jsonlint.com/) ✅
 
+---
+
 ## 🎓 Additional Learning Platforms
+
 - [Treehouse Tech Education](https://teamtreehouse.com/) 🎓
 - [freeCodeCamp Learn to Code](https://www.freecodecamp.org/) 🌟
 - [Cisco Networking Academy Networking Courses](https://www.netacad.com/) 🎓
@@ -105,7 +167,10 @@ Welcome to the world of front-end development! Whether you're just starting your
 - [Udacity Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011) 🎓
 - [edX Front-End Web Development MicroBachelors Program](https://www.edx.org/micromasters/front-end-web-developer) 🎓
 
+---
+
 ## 📚 Books
+
 - [Eloquent JavaScript](https://eloquentjavascript.net/) 📚
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) 📚
 - [React Up and Running](https://learning.oreilly.com/library/view/react-up-and/9781491931793/) 📚
@@ -115,15 +180,23 @@ Welcome to the world of front-end development! Whether you're just starting your
 - [Effective TypeScript](https://www.oreilly.com/library/view/effective-typescript/9781492053736/) 📚
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) 📚
 - [Smashing Book 6: New Frontiers in Web Design](https://www.smashingmagazine.com/smashing-book-6/) 📚
+- [AI-Assisted Development with GitHub Copilot](https://www.oreilly.com/) 📚 *(search O'Reilly for latest edition)*
+- [Building LLM Powered Applications](https://www.oreilly.com/) 📚 *(search O'Reilly for latest edition)*
 
-## 🌟 Top GitHub Repositories for Frontend Development
-- [awesome-react - Curated List](https://github.com/enaqx/awesome-react) 🌟
-- [freeCodeCamp - Open Source Curriculum](https://github.com/freeCodeCamp/freeCodeCamp) 🌟
-- [JavaScript Algorithms - Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) 🌟
-- [Reactiflux React Resources](https://github.com/reactiflux/reactiflux.com) 🌟
-- [Front-End-Checklist - Web Development Checklist](https://github.com/thedaviddias/Front-End-Checklist) 🌟
+---
+
+## 🤖 AI & LLM YouTube Channels (New in 2026)
+
+- [Andrej Karpathy - Deep Learning & LLMs](https://www.youtube.com/@AndrejKarpathy) 📺
+- [Yannic Kilcher - AI Research Papers](https://www.youtube.com/@YannicKilcher) 📺
+- [Matt Wolfe - AI Tools & News](https://www.youtube.com/@mreflow) 📺
+- [AI Explained - LLM Deep Dives](https://www.youtube.com/@aiexplained-official) 📺
+- [Fireship - AI for Developers](https://www.youtube.com/@Fireship) 📺 *(also great for frontend)*
+
+---
 
 ## 🎥 YouTube Channels
+
 - [Traversy Media - Web Development](https://www.youtube.com/user/TechGuyWeb) 📺
 - [The Net Ninja - Web Development](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) 📺
 - [Academind - Web Development](https://www.youtube.com/c/Academind) 📺
@@ -132,11 +205,16 @@ Welcome to the world of front-end development! Whether you're just starting your
 - [DesignCourse - Design and UI/UX](https://www.youtube.com/c/DesignCourse) 📺
 - [The Coding Garden with CJ - Live Coding](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw) 📺
 
+---
+
 ## 💻 Code Editors
+
 - [Visual Studio Code](https://code.visualstudio.com/) 📝
+- [Cursor - AI-First Code Editor](https://cursor.sh/) 📝 *(new — AI pair programming built in)*
+- [Windsurf by Codeium](https://codeium.com/windsurf) 📝 *(new — agentic AI IDE)*
 - [Sublime Text](https://www.sublimetext.com/) 📝
-- [Zed - High-performance Modern Editor](https://zed.dev/) 📝 *(new addition)*
-- [Phoenix Editor - Modern Brackets Successor](https://phcode.io/) 📝 *(new addition)*
+- [Zed - High-performance Modern Editor](https://zed.dev/) 📝
+- [Phoenix Editor - Modern Brackets Successor](https://phcode.io/) 📝
 - [WebStorm](https://www.jetbrains.com/webstorm/) 📝
 - [Notepad++](https://notepad-plus-plus.org/downloads/) 📝
 - [Visual Studio Code Extensions (VSCode Marketplace)](https://marketplace.visualstudio.com/VSCode) 📝
@@ -144,6 +222,19 @@ Welcome to the world of front-end development! Whether you're just starting your
 
 ---
 
-> **Last reviewed:** February 2026 — Links verified and updated. Removed discontinued tools (Atom, Brackets, GitHub Learning Lab). Updated Angular docs URL, Material UI URL, and added Next.js, Astro, Zed, and Phoenix Editor.
+## 🌟 Top GitHub Repositories for Frontend Development
 
-Happy learning, and may your journey in front-end development be filled with creativity and innovation!
+- [awesome-react - Curated List](https://github.com/enaqx/awesome-react) 🌟
+- [freeCodeCamp - Open Source Curriculum](https://github.com/freeCodeCamp/freeCodeCamp) 🌟
+- [JavaScript Algorithms - Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) 🌟
+- [Reactiflux React Resources](https://github.com/reactiflux/reactiflux.com) 🌟
+- [Front-End-Checklist - Web Development Checklist](https://github.com/thedaviddias/Front-End-Checklist) 🌟
+- [awesome-ChatGPT-prompts](https://github.com/f/awesome-chatgpt-prompts) 🌟 *(new — prompt engineering reference)*
+- [LangChain - LLM App Framework](https://github.com/langchain-ai/langchain) 🌟 *(new)*
+- [vercel/ai - Vercel AI SDK](https://github.com/vercel/ai) 🌟 *(new — AI in React/Next.js)*
+
+---
+
+> **Last reviewed:** March 2026 — Links verified and updated. Added two new sections: **🤖 AI & Prompt Engineering** and **🛠️ AI Tools for Frontend Developers**. Added AI YouTube channels, AI-focused GitHub repos, AI books, and AI-native code editors (Cursor, Windsurf). Removed discontinued tools (Atom, Brackets, GitHub Learning Lab). Updated Angular docs URL, Material UI URL.
+
+Happy learning, and may your journey in front-end development be filled with creativity, innovation, and intelligent AI collaboration! 🚀
